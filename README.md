@@ -69,8 +69,7 @@ Emby 播放行为实时监控面板（多地异常检测 / 历史记录可视化
 ⸻
 
 🖼 页面预览(待补充)
-
-
+![仪表盘](https://raw.githubusercontent.com/PANGPANGDigital/Emby-SkyEye/blob/main/image/Emby-SkyEye.png)
 
 🧪 配置 Emby
 
