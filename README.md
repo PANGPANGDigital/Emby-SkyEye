@@ -1,4 +1,6 @@
-![仪表盘](https://raw.githubusercontent.com/PANGPANGDigital/Emby-SkyEye/main/image/skyeye-icon.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PANGPANGDigital/Emby-SkyEye/main/image/skyeye-icon.png" width="120">
+</p>
 # **Emby-SkyEye（基于 ChatGPT 编写 个人自用）**
 
 Emby 播放行为实时监控面板（多地异常检测 / 历史记录可视化 / Web 可配置）
